@@ -1,14 +1,14 @@
 <p align='center'>
 <a href="https://www.facebook.com/sazzad.hossen19/">
-<img  src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/cover.jpg?raw=true" />
+<img  src="https://ibb.co.com/cXY6tTt" />
 </a>
 </p>
 
 ## :chart_with_upwards_trend: Current Stats
+
 <p align='center'>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=67sazzadhossen&theme=transparent" alt="GitHub Streak" /></a>
 </p>
-
 
 ## :mailbox: Reach me out
 
@@ -26,9 +26,7 @@
   </a>
 </p>
 
-
 <br />
-
 
 ## :computer: Technologies that I know
 
@@ -55,8 +53,6 @@
 </p>
 <br/>
 
-
-
 ## :eyes: Current overview
 
 <!-- <div align="left">
@@ -64,7 +60,11 @@
 </div> -->
 
 ### 💻 I'm Working - At Zinnodev, building web apps with the MERN stack.
+
 ### 🎨 Exploring - Advanced motion graphics for web development.
+
 ### 🤝 Looking - To collaborate on exciting open-source projects.
+
 ### 📚 Trying - To help others learn web development.
+
 ### 🌍 Fun fact - I love traveling and exploring new cultures.
