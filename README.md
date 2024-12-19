@@ -1,6 +1,6 @@
 <p align='center'>
-<a href="https://www.facebook.com/sazzad.hossen19/">
-<img  src="https://github.com/takimul/takimul/blob/main/assets/WhatsApp%20Image%202024-11-17%20at%2011.12.59%20PM.jpeg?raw=true"/>
+<a href="https://www.facebook.com/takimul.nihal/">
+<img  src="https://ibb.co.com/4PcvXgB"/>
 </a>
 </p>
 
@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/67sazzadhossen">
     <img height="75" src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/linkedin.png?raw=true">
   </a>
-  <a href="https://www.facebook.com/sazzad.hossen19">
+  <a href="https://www.facebook.com/takimul.nihal/">
     <img height="75" src="https://raw.githubusercontent.com/67sazzadhossen/67sazzadhossen/351497f477244f3647a82b8bb37d66326cdc45f9/assets/facebook.svg">
   </a>
   <a href="https://twitter.com/sazzadhossen010">
