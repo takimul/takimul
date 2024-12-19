@@ -15,13 +15,13 @@
 <br />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/67sazzadhossen">
+  <a href="https://www.linkedin.com/in/md-takimul-hasan-nihal-7970341b5/">
     <img height="75" src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/linkedin.png?raw=true">
   </a>
   <a href="https://www.facebook.com/takimul.nihal/">
     <img height="75" src="https://raw.githubusercontent.com/67sazzadhossen/67sazzadhossen/351497f477244f3647a82b8bb37d66326cdc45f9/assets/facebook.svg">
   </a>
-  <a href="https://twitter.com/sazzadhossen010">
+  <a href="https://twitter.com/">
     <img height="75" src="https://github.com/67sazzadhossen/67sazzadhossen/blob/main/assets/twitter.png?raw=true">
   </a>
 </p>
